@@ -1,0 +1,11 @@
+Libraries Used in Smart Bag Project:
+
+1. WiFi - Built-in with ESP32 core
+2. WiFiClient - Built-in with ESP32 core
+3. BlynkSimpleEsp32 - https://github.com/blynkkk/blynk-library
+4. HX711 - https://github.com/bogde/HX711
+5. SPI - Built-in with Arduino core
+6. MFRC522 - https://github.com/miguelbalboa/rfid
+7. TinyGPSPlus - https://github.com/mikalhart/TinyGPSPlus
+8. HardwareSerial - Built-in with ESP32 core
+9. map (C++ STL) - Built-in with C++ Standard Library (supported by ESP32 core)
