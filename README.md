@@ -51,7 +51,7 @@
 
 ##  Setup Instructions
 
-1. Connect the modules as per the circuit diagram:
+1. Connect the module:
    - RFID to ESP32 via SPI
    - GPS via UART (TX-RX)
    - Load Cell via HX711 (connected to ESP32 GPIOs)
@@ -60,7 +60,7 @@
 
 3. Set up:
    - Blynk account and project.
-   - Google Apps Script (optional for email alerts).
+   
    
 4. Update credentials and API keys in the code:
    ```cpp
