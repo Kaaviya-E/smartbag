@@ -1,0 +1,20 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.map
+*.eep
+*.d
+*.dep
+
+# Sketch build folder
+build/
+.pio/
+.vscode/
+
+# OS / Editor generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
